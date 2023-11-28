@@ -1,2 +1,2 @@
 # Calculadora_em_Python
-Calculadora em python
+Calculadora feita em python usando flask.
